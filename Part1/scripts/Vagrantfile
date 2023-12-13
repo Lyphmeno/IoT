@@ -1,5 +1,5 @@
-SERVER = "hleviS"
-WORKER = "hleviSW"
+SERVER = "lrandriaS"
+WORKER = "lrandriaSW"
 
 SERVER_IP = "192.168.56.110"
 WORKER_IP = "192.168.56.111"
